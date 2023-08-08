@@ -1,0 +1,53 @@
+{
+  "details": [
+    {
+      "id": 2,
+      "name": "angela",
+      "email": "angela@gmail.com",
+      "phone": 123456789,
+      "country": "UK"
+    },
+    {
+      "name": "Jonnyasdf",
+      "email": "JohnWick@gmail.com",
+      "phone": 786967892,
+      "country": "Canada",
+      "id": 3
+    },
+    {
+      "name": "qwert",
+      "email": "DominicToreto@gmail.com",
+      "phone": 987654321,
+      "country": "Russia",
+      "id": 4
+    },
+    {
+      "name": "Dev12345",
+      "email": "dev@gmail.com",
+      "phone": "1234567890",
+      "country": "India",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "email": "xyz@gmail.com",
+      "phone": "12345678",
+      "country": "xyz",
+      "id": 6
+    },
+    {
+      "name": "angel",
+      "email": "angel@gmail.com",
+      "phone": 123456789,
+      "country": "UK",
+      "id": 7
+    },
+    {
+      "name": "Dev123",
+      "email": "dev@gmail.com",
+      "phone": "1234567890",
+      "country": "India",
+      "id": 8
+    }
+  ]
+}
